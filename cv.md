@@ -2,8 +2,8 @@
 ### Frontend / Javascript developer
 ---
 ## Contacts
-##### Email: *[mipo.spb@gmail.com](mipo.spb@gmail.com)*
-##### Telegram: *[@mipospb](t.me/mipospb)*
+##### Email: *[mipo.spb@gmail.com](https//:mipo.spb@gmail.com)*
+##### Telegram: *[@mipospb](https://t.me/mipospb)*
 
 ##### Github: *[intaiso](https://github.com/intaiso)*
 ---
@@ -51,13 +51,13 @@ const numberOfPairs = (gloves) => {
   - *Technician-programmer*
 * Self study
   - [Google](https://www.google.com/)
+  - [Github](https://github.com/)
   - [Youtube](https://www.youtube.com/)
   - [MDN](https://developer.mozilla.org/en-US/docs/Learn)
   - [learn.javascript.ru](https://learn.javascript.ru/)
   - [Doka](https://doka.guide/)
   - [WebReference](https://webref.ru/)
   - [Codepen](https://codepen.io/)
-  - [and Github :) ](https://github.com/)
 ---
 ## English
 * A2
