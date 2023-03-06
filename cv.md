@@ -18,6 +18,7 @@
 * *Git*
 * *VS Code, Webstorm*
 * *Figma, Photoshop*
+
 ---
 ## Code examples
 
@@ -58,6 +59,7 @@ const numberOfPairs = (gloves) => {
   - [Doka](https://doka.guide/)
   - [WebReference](https://webref.ru/)
   - [Codepen](https://codepen.io/)
+
 ---
 ## English
 * A2
