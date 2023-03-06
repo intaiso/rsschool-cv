@@ -2,7 +2,7 @@
 ### Frontend / Javascript developer
 ---
 ## Contacts
-##### Email: *[mipo.spb@gmail.com](https//:mipo.spb@gmail.com)*
+##### Email: *[mipo.spb@gmail.com](mailto:mipo.spb@gmail.com)*
 ##### Telegram: *[@mipospb](https://t.me/mipospb)*
 
 ##### Github: *[intaiso](https://github.com/intaiso)*
