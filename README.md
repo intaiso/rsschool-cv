@@ -1,2 +1,2 @@
 # rsschool-cv
-cv for rolling scopes school
+https://intaiso.github.io/rsschool-cv/cv
